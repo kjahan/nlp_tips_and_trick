@@ -1,2 +1,2 @@
-# nlp_tips_and_trick
+# NLP tips & tricks
 NLP tips and trick
